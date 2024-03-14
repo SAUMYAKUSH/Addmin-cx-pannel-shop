@@ -23,7 +23,7 @@ const MedicineList = () => {
   return (
     <React.Fragment>
       <div>
-        <h2>Available Medicines</h2>
+        <h2>Available Candy</h2>
         <Card>
           <ul>
             {listCxt.data.map((item) => (
